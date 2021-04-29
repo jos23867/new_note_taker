@@ -9,11 +9,11 @@
 
 This application can be used to write, save, and delete notes. This application use an express backend to save and retrieve note data from a JSON file.
 
-![Foto 1](Foto1.png)   
-![Foto 2](Foto2.png) 
-![Foto 3](Foto3.png) 
-![Foto 4](Foto4.png) 
-![Foto 5](Foto5.png) 
+[Foto 1](Foto1.png)   
+[Foto 2](Foto2.png) 
+[Foto 3](Foto3.png) 
+[Foto 4](Foto4.png) 
+[Foto 5](Foto5.png) 
 
 ## User Story
 
