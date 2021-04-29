@@ -9,11 +9,11 @@
 
 This application can be used to write, save, and delete notes. This application use an express backend to save and retrieve note data from a JSON file.
 
-[Foto 1](https://github.com/jos23867/new_note_taker/blob/main/Foto%201.png)   
-[Foto 2](https://github.com/jos23867/new_note_taker/blob/main/Foto%202.png )
-[Foto 3](https://github.com/jos23867/new_note_taker/blob/main/Foto%203.png)
-[Foto 4](https://github.com/jos23867/new_note_taker/blob/main/Foto%204png)
-[Foto 5](https://github.com/jos23867/new_note_taker/blob/main/Foto%205.png)
+![Photo 1](https://github.com/jos23867/new_note_taker/blob/main/Foto%201.png)   
+![Photo 2](https://github.com/jos23867/new_note_taker/blob/main/Foto%202.png )
+![Photo 3](https://github.com/jos23867/new_note_taker/blob/main/Foto%203.png)
+![Photo 4](https://github.com/jos23867/new_note_taker/blob/main/Foto%204png)
+![Photo 5](https://github.com/jos23867/new_note_taker/blob/main/Foto%205.png)
 
 ## User Story
 
